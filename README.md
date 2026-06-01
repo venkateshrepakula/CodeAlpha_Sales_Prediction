@@ -1,2 +1,18 @@
-# CodeAlpha_Sales_Prediction
-This project uses machine learning to predict sales based on TV and Radio advertising spending.
+Sales Prediction using Machine Learning
+
+Project Description:
+This project predicts sales based on advertising expenditure.
+
+Tools Used:
+- Python
+- Pandas
+- Scikit-Learn
+
+Algorithm:
+- Linear Regression
+
+Result:
+Predicted Sales: 15.06
+
+Author:
+Venkatesh Repakula
